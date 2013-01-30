@@ -87,6 +87,7 @@
 				46E6082515FA6AC800A04291 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		46E6082515FA6AC800A04291 /* Products */ = {
 			isa = PBXGroup;
